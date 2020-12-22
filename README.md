@@ -1,5 +1,6 @@
 # Festive Calendar Serverless Workshop
 
+Version Karel
 ## Agenda
 
 1. Introduction
